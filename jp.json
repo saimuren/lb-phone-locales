@@ -1,0 +1,1537 @@
+{
+	"LABEL": "日本語",
+	"SEARCH": "検索",
+	"CANCEL": "キャンセル",
+	"NOW": "now",
+	"D": "d",
+	"H": "h",
+	"M": "m",
+	"S": "s",
+
+	"APP_NAMES": {
+		"Phone": "Phone",
+		"Messages": "Messages",
+		"Notes": "Notes",
+		"Settings": "Settings",
+		"Photos": "Photos",
+		"Camera": "Camera",
+		"Weather": "Weather",
+		"Calculator": "Calculator",
+		"AppStore": "Apps",
+		"Clock": "Clock",
+		"Maps": "Maps",
+		"YellowPages": "Pages",
+		"MarketPlace": "MarketPlace",
+		"Wallet": "Wallet",
+		"Home": "Home",
+		"Garage": "Garage",
+		"Music": "Music",
+		"DarkChat": "Dark Chat",
+		"Crypto": "Crypto",
+		"Mail": "Mail",
+		"Services": "Services",
+		"VoiceMemo": "Voice Memos",
+		"Twitter": "Birdy",
+		"Instagram": "InstaPic",
+		"Tinder": "Spark",
+		"TikTok": "Trendy"
+	},
+
+	"APPS": {
+		"SETTINGS": {
+			"TITLE": "設定",
+			"BACK": "戻る",
+			"DONE": "完了",
+			"EDIT": "編集",
+			"AIRPLANE_MODE": "機内モード",
+			"STREAMER_MODE": "ストリーマー・モード",
+			"BLUETOOTH": "Bluetooth",
+			"GENERAL": "一般",
+			"ABOUT": "About",
+			"NAME": "名前",
+			"VERSION": "バージョン",
+			"MODEL_NAME": "モデル名",
+			"SERIAL_NUMBER": "シリアルナンバー",
+			"DEVELOPED_BY": "によって開発された",
+			"PURCHASE_AT": "で購入します",
+			"SONGS": "曲",
+			"VIDEOS": "ビデオ",
+			"PHOTOS": "写真",
+			"APPLICATIONS": "アプリケーション",
+			"CAPACITY": "定員",
+			"AVAILABLE": "利用可能",
+			"SOFTWARE_UPDATE": "ソフトウェアの更新",
+			"AUTOMATIC_UPDATES": "自動更新",
+			"DATE_TIME": "日時",
+			"24_HOUR_TIME": "24時間",
+			"SET_AUTOMATICALLY": "自動設定",
+			"TIME_ZONE": "タイムゾーン",
+			"LANGUAGE_REGION": "言語と地域",
+			"LANGUAGE": "言語",
+			"TEMPERATURE": "温度",
+			"CELCIUS": "摂氏",
+			"FAHRENHEIT": "華氏",
+			"BATTERY": "バッテリー",
+			"SOUND_HAPTICS": "サウンド＆ハプティクス",
+			"SOUND_HAPTICS_PATTERNS": "音と触覚のパターン",
+			"RINGTONE": "着信音",
+			"TEXT_TONE": "テキストトーン",
+			"RINGTONE_VOLUME": "着信音とアラートの音量",
+			"DEFAULT": "デフォルト",
+			"PHONE_STORAGE": "電話のストレージ",
+			"STORAGE": "ストレージ",
+			"USED": "Used",
+			"OF": "of",
+			"DISPLAY_BRIGHTNESS": "ディスプレイと明るさ",
+			"APPEARANCE": "外観",
+			"AUTOMATIC": "自動",
+			"BRIGHTNESS": "明るさ",
+			"PHONE_SCALE": "電話スケール",
+			"FRAME_COLOR": "フレームカラー",
+			"WALLPAPER": "壁紙",
+			"WALLPAPERS": "壁紙",
+			"CHOOSE_NEW_WALLPAPER": "新しい壁紙を選ぶ",
+			"NOTIFICATIONS": "通知",
+			"ALLOW_NOTIFICATIONS": "通知を許可",
+			"SOUNDS": "サウンド",
+			"PHONE": "電話",
+			"BLOCKED_CONTACTS": "ブロックされた連絡先",
+			"MY_NUMBER": "私の番号",
+			"SHOW_CALLER_ID": "発信者IDを表示します",
+			"UNBLOCK_POPUP": {
+				"TITLE": "ブロック番号を解除します",
+				"TEXT": "本当にこの番号をブロック解除しますか？",
+				"CANCEL": "キャンセル",
+				"CONFIRM": "ブロックを解除します"
+			},
+			"FACE_ID_PASSWORD": "Face Unlock & Passcode",
+			"ENTER_PASSCODE": "PassCodeを入力します",
+			"PASSCODE": "パスコード",
+			"FACE_ID": "Face Unlock",
+			"RESET_FACE_ID": "Face Unlock をリセット",
+			"ENABLE_FACE_ID": "Face Unlock を有効にする",
+			"PIN_CODE": "ピンコード",
+			"DISABLE_FACE_ID_POPUP": {
+				"TITLE": "Face Unlock 無効",
+				"TEXT": "本当に Face Unlock を無効にしますか？",
+				"CANCEL": "キャンセル",
+				"CONFIRM": "Turn Off"
+			},
+			"ENABLE_FACE_ID_POPUP": {
+				"TITLE": "Enable Face Unlock",
+				"TEXT": "本当に Face Unlock を有効にしますか？",
+				"CANCEL": "キャンセル",
+				"CONFIRM": "有効"
+			},
+			"DISABLE_PIN_POPUP": {
+				"TITLE": "Turn Off Pin Code",
+				"TEXT": "本当にPINコードをオフにしますか？(Face Unlock も無効になります。）",
+				"CANCEL": "キャンセル",
+				"CONFIRM": "確認"
+			},
+			"TURN_PASSCODE_OFF": "パスコードを無効にする",
+			"TURN_PASSCODE_ON": "パスコードを有効にする",
+			"CHANGE_PASSCODE": "パスコードの変更",
+			"CLOUD_BACKUP": "クラウドバックアップ",
+			"YOUR_PROFILE": "あなたのプロフィール",
+			"CREATE_BACKUP": "バックアップを作成する",
+			"SAVE_BACKUP_POPUP": {
+				"TITLE": "バックアップを保存します",
+				"TEXT": "本当にデータのバックアップを保存しますか？(連絡先、写真、設定を保存します。）",
+				"CANCEL": "キャンセル",
+				"CONFIRM": "保存"
+			},
+			"BACKUPS": "バックアップ",
+			"APPLY_BACKUP_POPUP": {
+				"TITLE": "バックアップを適用します",
+				"TEXT": "本当にこのバックアップを適用しますか？(連絡先、写真、設定を上書きします。）",
+				"CANCEL": "キャンセル",
+				"CONFIRM": "復元"
+			},
+			"SUCCESS": "成功",
+			"SUCCESS_TEXT": "携帯は 5 秒後に再起動します...",
+			"OK": "OK",
+			"ON": "On",
+			"OFF": "Off",
+			"REMOVE_BACKUP_POPUP": {
+				"TITLE": "バックアップを削除します",
+				"TEXT": "本当にこのバックアップを削除しますか？",
+				"CANCEL": "キャンセル",
+				"CONFIRM": "削除"
+			},
+			"RESET_POPUP": {
+				"TITLE": "電話をリセットします",
+				"TEXT": "本当にリセットしますか？ [ これですべてが削除されます ]",
+				"CANCEL": "キャンセル",
+				"CONFIRM": "リセット"
+			},
+			"UP_TO_DATE": "お使いの携帯電話は最新です"
+		},
+		"NOTES": {
+			"TITLE": "ノート",
+			"SEARCH_PLACEHOLDER": "検索",
+			"FOOTER": "{amount} ノート",
+			"NEW_NOTE": "新しいメモ",
+			"LAST_EDITED": "最終更新日: {date}",
+			"DELETE_TITLE": "削除 {title}",
+			"DELETE_TEXT": "'{title}' を本当に削除しますか？",
+			"BUTTON_CANCEL": "キャンセル",
+			"BUTTON_DELETE": "削除"
+		},
+		"CLOCK": {
+			"WORLDCLOCK": {
+				"TITLE": "世界時計",
+				"TODAY": "今日",
+				"TOMORROW": "明日",
+				"YESTERDAY": "昨日"
+			},
+			"ALARM": {
+				"TITLE": "Alarm",
+				"ADD": "アラームを追加します",
+				"CANCEL": "キャンセル",
+				"EDIT": "編集",
+				"DONE": "完了",
+				"SAVE": "保存",
+				"LABEL": "ラベル",
+				"SOUND": "音",
+				"SNOOZE": "スヌーズ",
+				"DELETE_TITLE": "アラームを削除します",
+				"DELETE_TEXT": "本当にこのアラームを削除しますか？",
+				"BUTTON_CANCEL": "キャンセル",
+				"BUTTON_DELETE": "削除"
+			},
+			"STOPWATCH": {
+				"TITLE": "ストップウォッチ",
+				"START": "スタート",
+				"STOP": "ストップ",
+				"RESET": "リセット",
+				"LAP": "ラップ"
+			},
+			"TIMER": {
+				"TITLE": "タイマー",
+				"START": "スタート",
+				"STOP": "ストップ",
+				"CANCEL": "キャンセル",
+				"HOURS": "時間",
+				"MINUTES": "分",
+				"SECONDS": "秒"
+			},
+			"ALERT": {
+				"STOP": "ストップ"
+			}
+		},
+		"CAMERA": {
+			"VIDEO": "ビデオ",
+			"PHOTO": "写真",
+			"LANDSCAPE": "風景",
+			"UPLOADING": "アップロード"
+		},
+		"DARKCHAT": {
+			"TITLE": "ダークチャット",
+			"USERNAME": "ユーザー名",
+			"SET_USERNAME": "ユーザー名を設定します。注：これは一度しか設定できません。",
+			"CANCEL": "キャンセル",
+			"SET": "セット",
+			"JOIN": "参加",
+			"LEAVE": "離れる",
+			"NEW_ROOM": "新しい部屋",
+			"NEW_ROOM_TEXT": "ルームコードを入力して、ルームに参加またはルームを作成する。",
+			"ROOM_CODE": "ルームコード",
+			"LEAVE_ROOM": "部屋を出る",
+			"LEAVE_ROOM_TEXT": "本当にこのルームを出たいのか？",
+			"NOW": "Now",
+			"INPUT_PLACEHOLDER": "メッセージを入力..."
+		},
+		"APPSTORE": {
+			"TITLE": "アプリ",
+			"SEARCH": "検索",
+			"GET": "DL",
+			"OPEN": "開く",
+			"TODAY": "Today",
+			"POPULAR_APPS": "人気アプリ",
+			"GAMES": "ゲーム",
+			"APPS": "アプリ",
+			"WHAT_WE_PLAYING": "私たちがプレイしているもの",
+			"INFORMATION": "情報",
+			"PROVIDER": "プロバイダー",
+			"SIZE": "サイズ",
+			"COMPATIBILITY": "互換性",
+			"IN_APP_PURCHASES": "アプリ内課金",
+			"WORKS_WITH_PHONE": "この電話で動作します",
+			"NO": "いいえ",
+			"YES": "はい",
+			"PURCHASE_APP_POPUP": {
+				"TITLE": "購入アプリ",
+				"DESCRIPTION": " {price} で {app} を購入しますか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "購入"
+			}
+		},
+		"PHOTOS": {
+			"TITLE": "写真",
+			"SELECT": "選択",
+			"CANCEL": "キャンセル",
+			"EDIT": "編集",
+			"DONE": "完了",
+			"DELETE": "削除",
+			"SELECT_ITEMS": "アイテムを選択",
+			"SELECTED_COUNT": "{count} 項目",
+
+			"PHOTOS": "写真",
+			"ALBUMS": "アルバム",
+			"LIBRARY": "ライブラリー",
+			"MY_ALBUMS": "My アルバム",
+			"MEDIA_TYPES": "Media Types",
+			"NEW_ALBUM_POPUP": {
+				"TITLE": "新しいアルバム",
+				"DESCRIPTION": "このアルバムの名前を入力してください。",
+				"PLACEHOLDER": "タイトル",
+				"CANCEL": "キャンセル",
+				"PROCEED": "保存"
+			},
+			"REMOVE_ALBUM": {
+				"TITLE": "削除 \"{name}\"",
+				"DESCRIPTION": "本当にアルバムを削除しますか \"{name}\" 写真は削除されません。",
+				"CANCEL": "キャンセル",
+				"PROCEED": "削除"
+			},
+			"RENAME_ALBUM_POPUP": {
+				"TITLE": "アルバム名を変更",
+				"DESCRIPTION": "このアルバムの新しい名前を入力する",
+				"PLACEHOLDER": "新しいアルバム名",
+				"CANCEL": "キャンセル",
+				"PROCEED": "進む"
+			},
+			"DELETE_IMAGE_POPUP": {
+				"TITLE": "画像を削除",
+				"DESCRIPTION": "本当にこの画像を削除しますか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "削除"
+			},
+			"IMPORT_IMAGE_POPUP": {
+				"TITLE": "アルバムにインポート",
+				"DESCRIPTION": "このアルバムに画像をインポートする",
+				"CANCEL": "キャンセル",
+				"PROCEED": "インポート",
+				"PLACEHOLDER": "画像URL"
+			},
+
+			"NO_PHOTOS": "写真・ビデオなし",
+			"NO_PHOTOS_INSTRUCTIONS": "カメラを使って写真やビデオを撮ることができます。",
+			"PHOTO_COUNT": "{photos} 写真, {videos} ビデオ",
+
+			"DELETE_CONTEXT_TITLE": " {type} を削除しますか、それともこのアルバムから削除しますか？",
+			"THESE_PHOTOS": "この写真",
+			"THIS_PHOTO": "この写真",
+			"REMOVE_FROM_ALBUM": "アルバムから削除",
+			"ADD_TO_ALBUM": "アルバムに追加",
+			"ADD_TO_FAVOURITES": "お気に入りに追加",
+			"VIDEOS": "ビデオ",
+			"SELFIES": "セルフィー",
+			"SCREENSHOTS": "スクリーンショット",
+			"IMPORTS": "インポート",
+			"DUPLICATES": "複製",
+			"YEARS": "年",
+			"MONTHS": "月",
+			"DAYS": "日",
+			"ALL_PHOTOS": "すべての写真",
+
+			"FAVOURITES": "お気に入り",
+			"RECENTS": "最近"
+		},
+		"WEATHER": {
+			"TITLE": "天気",
+			"HOURLY_FORECAST": "時間予報",
+			"NOW": "Now",
+			"FEELS_LIKE": "Feels like",
+			"FEELS_LIKE_SAME": "実際の温度と似ている。",
+			"FEELS_LIKE_HUMIDITY": "湿気が暖かく感じさせる",
+			"FEELS_LIKE_WIND": "風が涼しく感じさせる",
+			"SUNRISE": "日の出",
+			"SUNSET": "日没",
+			"WIND": "風",
+			"PRECIPITATION": "降水量",
+			"LAST_24H": "24時間以内",
+			"EXPECTED_24H": "24時間以内",
+			"TYPES": {
+				"CLOUDY": "曇り",
+				"LIGHT_RAIN": "小雨",
+				"HEAVY_RAIN": "大雨",
+				"RAIN": "雨",
+				"SNOW": "雪",
+				"FOG": "霧",
+				"CLEAR": "快晴",
+				"MOSTLY_CLEAR": "ほぼ快晴",
+				"THUNDER": "雷",
+				"TORNADO": "竜巻",
+				"WINDY": "強風"
+			}
+		},
+		"MESSAGES": {
+			"TITLE": "メッセージ",
+			"NEW_MESSAGE": "新しいメッセージ",
+			"PEOPLE": "People",
+			"MEMBERS": "メンバー",
+			"OTHER": "Other",
+			"SENT_A_PHOTO": "写真 送信完了",
+			"SENT_AUDIO_MESSAGE": "オーディオメッセージ 送信完了",
+			"SENT": "送信完了",
+			"REQUESTED": "リクエスト",
+			"MISSED_CALL": "{number} があなたに電話しようとしましたが、出ませんでした。",
+			"NOT_DELIVERED": "Not delivered",
+			"PLACEHOLDER": "Text Message",
+			"DONE": "完了",
+			"EDIT": "編集",
+			"READ": "Read",
+			"CANCEL": "キャンセル",
+			"SEND": "送信",
+			"UNKNOWN": "Unknown",
+			"TO": "To",
+			"SEARCH": "検索",
+			"ADD_MEMBER": "メンバーを追加",
+			"SHARE_LOCATION": "自分の場所を共有",
+			"LEAVE_GROUP": "会話を離れる",
+			"SENT_LOCATION": "現在地を共有し、クリックして地図で開く",
+			"SENT_LOCATION_SHORT": "彼らの場所を共有しました",
+			"TRIED_TO_CALL": "{number} があなたに電話しようとした",
+			"DELETE": "削除",
+			"REMOVE_POPUP": {
+				"TITLE": "メンバーを削除",
+				"TEXT": "本当に {name} をグループから外しますか？",
+				"REMOVE": "削除"
+			},
+			"LEAVE_POPUP": {
+				"TITLE": "グループを離れます",
+				"TEXT": "本当にこのグループから抜けますか？",
+				"LEAVE": "離れる"
+			},
+			"ADD_POPUP": {
+				"TITLE": "メンバーを追加します",
+				"TEXT": "グループ '{name}' に追加する番号を入力してください。",
+				"ADD": "追加"
+			},
+			"SEND_LOCATION_POPUP": {
+				"TITLE": "共有場所",
+				"TEXT": "現在地を共有しますか？",
+				"CANCEL": "キャンセル",
+				"SEND": "送信"
+			},
+			"PAY": {
+				"REQUEST": "リクエスト",
+				"REQUESTED": "リクエスト",
+				"PAY": "Pay",
+				"SEND": "送信",
+				"SEND_TITLE": " {amount} を送金する",
+				"SEND_DESCRIPTION": " {amount} を {name} に送金しますか？",
+				"SEND_BUTTON_CANCEL": "キャンセル",
+				"SEND_BUTTON_SEND": "送金"
+			},
+			"PAYMENT_FAILED_POPUP": {
+				"TITLE": "支払いに失敗",
+				"DESCRIPTION": "Error: {error}",
+				"CLOSE": "閉じる"
+			},
+			"DELETE_CONVERSATION": {
+				"TITLE": "会話の削除",
+				"DESCRIPTION": "本当にこの会話を削除しますか？"
+			},
+			"MARK_AS_READ": "既読にする",
+			"MESSAGE_DELETED": "メッセージ削除",
+			"OPEN_IN_MAPS": "地図で開く"
+		},
+		"PHONE": {
+			"TITLE": "電話",
+			"DONE": "完了",
+			"EDIT": "編集",
+			"CANCEL": "キャンセル",
+			"CALL": {
+				"CALL_TITLE": " {name} に電話する",
+				"CALL_TEXT": "{name} に電話しますか？",
+				"CALL_BUTTON_CANCEL": "キャンセル",
+				"CALL_BUTTON_CALL": "Call",
+				"NO_CALLER_ID": "非通知",
+				"UNKNOWN": "Unknown",
+				"USER_BUSY": "忙しい",
+				"USER_UNAVAILABLE": "使用不可",
+				"CALL_BACK": "掛け直す",
+				"DECLINE": "Decline",
+				"ACCEPT": "受け入れる",
+				"END": "終了",
+				"VIDEO_CALL": "ビデオ通話",
+				"MUTE": "ミュート",
+				"KEYPAD": "キーパッド",
+				"SPEAKER": "スピーカー",
+				"ADD_CALL": "通話を追加",
+				"VIDEO": "ビデオ",
+				"CONTACTS": "連絡先",
+				"MOBILE": "モバイル"
+			},
+			"CONTACTS": {
+				"TITLE": "連絡先",
+				"FIRST_NAME": "名前",
+				"LAST_NAME": "名字",
+				"PHONE_NUMBER": "電話番号",
+				"MY_CARD": "私のカード",
+				"ADD_PHOTO": "写真を追加",
+				"REMOVE_CONTACT_TITLE": "連絡先の削除",
+				"REMOVE_CONTACT_TEXT": "本当にこの連絡先を削除しますか？",
+				"REMOVE_CONTACT_BUTTON_CANCEL": "キャンセル",
+				"REMOVE_CONTACT_BUTTON_DELETE": "削除",
+				"DELETE_CONTACT": "連絡先を削除",
+				"MESSAGE": "メッセージ",
+				"CALL": "電話",
+				"VIDEO": "ビデオ",
+				"MAIN": "main",
+				"SHARE_CONTACT": "連絡先を共有",
+				"SHARE_LOCATION": "現在地を共有する",
+				"REMOVE_FAVORITE": "お気に入りから削除",
+				"ADD_FAVORITE": "お気に入りに追加",
+				"ADD_CONTACT": "連絡先に追加",
+				"UNBLOCK_CALLER": "この発信者のブロックを解除する",
+				"BLOCK_CALLER": "この発信者をブロックする",
+				"UNBLOCK_NUMBER_TITLE": "ブロック解除番号",
+				"UNBLOCK_NUMBER_TEXT": "{number} のブロックを本当に解除しますか？",
+				"UNBLOCK_NUMBER_BUTTON_CANCEL": "キャンセル",
+				"UNBLOCK_NUMBER_BUTTON_UNBLOCK": "ブロック解除",
+				"BLOCK_NUMBER_TITLE": "ブロック番号",
+				"BLOCK_NUMBER_TEXT": "本当に {number} をブロックしますか？",
+				"BLOCK_NUMBER_BUTTON_CANCEL": "キャンセル",
+				"BLOCK_NUMBER_BUTTON_BLOCK": "ブロック",
+				"EMAIL": "Eメール",
+				"ADDRESS": "アドレス"
+			},
+			"FAVOURITES": {
+				"TITLE": "お気に入り",
+				"REMOVE_TITLE": "お気に入りから削除",
+				"REMOVE_TEXT": "本当にこの連絡先をお気に入りから削除しますか？",
+				"REMOVE_BUTTON_CANCEL": "キャンセル",
+				"REMOVE_BUTTON_REMOVE": "削除"
+			},
+			"KEYPAD": {
+				"TITLE": "キーパッド",
+				"ADD_NUMBER": "Add Number"
+			},
+			"RECENTS": {
+				"TITLE": "最新情報"
+			},
+			"VOICEMAIL": {
+				"TITLE": "ボイスメール",
+				"AT": "at",
+				"DELETE_POPUP": {
+					"TITLE": "ボイスメールを削除",
+					"DESCRIPTION": "本当にこの Voicemail を削除しますか？",
+					"CANCEL": "キャンセル",
+					"PROCEED": "削除"
+				},
+				"CALL_POPUP": {
+					"TITLE": "Call",
+					"DESCRIPTION": "本当に {number} に電話しますか？",
+					"CANCEL": "キャンセル",
+					"PROCEED": "Call"
+				}
+			}
+		},
+		"WALLET": {
+			"TITLE": "Wallet",
+			"BALANCE": "残高",
+			"SEND": "送信",
+			"NEXT": "Next",
+			"DONE": "完了",
+			"DONE_SUBTITLE": " {amount} を {number} に送金しました。",
+			"NO_REFUNDS": "支払いは送金されませんでした。番号を再度確認してください。",
+			"NEW_BALANCE": "New Balance",
+			"LATEST_TRANSACTIONS": "最新の取引",
+			"LATEST_BILLS": "最新の請求書",
+			"NOW": "Now",
+			"AGO": "ago",
+			"NUMBER_DOES_NOT_EXIST": "番号が存在しない / 対象者が起きていない",
+			"NOT_ENOUGH_MONEY": "お金が足りない",
+			"SELECT_CONTACT": "連絡先を選択",
+			"EXCEED_DAILY": "この支払いは 1 日の限度額を超えています",
+			"EXCEED_WEEKLY": "このお支払いは週ごとの限度額を超えています",
+			"FAILED_ADD": "送金に失敗しました"
+		},
+		"GARAGE": {
+			"TITLTE": "ガレージ",
+			"ACTIONS": "Actions",
+			"MY_CARS": "私の車",
+			"OUT": "外",
+			"GARAGE": "ガレージ",
+			"IMPOUNDED": "押収",
+			"IMPOUND_INFO": "押収情報",
+			"LOCATION": "所在地",
+			"SUMMON": "召喚",
+			"VALET": "係員",
+			"STATISTICS": "統計",
+			"FUEL": "燃料",
+			"ENGINE": "エンジン",
+			"BODY": "ボディ",
+			"VEHICLE": "車両",
+			"STATUS": "状態",
+			"LOCKED": "ロックされています",
+			"LOCK": "ロック",
+			"UNLOCKED": "ロックは解除された",
+			"UNLOCK": "ロックを解除",
+
+			"WAYPOINT_POPUP": {
+				"TITLE": "ウェイポイントを設定",
+				"TEXT": " {model} にウェイポイントを設定しますか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"VALET_POPUP": {
+				"TITLE": "係員",
+				"TEXT": "あなたの {model} ( {plate} ) をお預かりしますか？",
+				"TEXT_PAID": "あなたの {model} ( {plate} ) を {amount} でお預かりしますか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"LOCK_POPUP": {
+				"TITLE": "{toggle} vehicle",
+				"TEXT": "車両を {toggle} しますか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"IMPOUND_REASON": {
+				"REASON": "理由",
+				"RETRIEVABLE": "取得可能",
+				"IMPOUNDER": "Impounded by",
+				"PRICE": "Cost"
+			}
+		},
+		"HOME": {
+			"TITLE": "家",
+			"MY_HOMES": "自分の家",
+			"MY_HOME": "自分の家",
+			"KEY_ACCESS": "キーアクセス",
+			"ACTIONS": "Actions",
+			"FRONT_DOOR": "正面玄関",
+			"LOCATION": "位置",
+			"SET_WAYPOINT": "ウェイポイントを設定",
+			"UNLOCK": "ロックを解除",
+			"UNLOCKED": "ロック解除",
+			"LOCK": "ロック",
+			"LOCKED": "ロックされています",
+			"GIVE_KEY": "キーを与えます",
+			"MANAGE": "管理",
+			"WAYPOINT_POPUP": {
+				"TITLE": "ウェイポイントを設定",
+				"TEXT": " {home} にウェイポイントを設定しますか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"LOCK_POPUP": {
+				"TITLE": "{toggle} Home",
+				"TEXT": "自宅を {toggle} したいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"GIVE_KEY_POPUP": {
+				"TITLE": "キーを与える",
+				"TEXT": "鍵を与えたい人のIDを挿入します",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"REMOVE_KEY_POPUP": {
+				"TITLE": "キーホルダーを削除します",
+				"TEXT": " {name} からのアクセスを削除しますか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			}
+		},
+		"MARKETPLACE": {
+			"CANCEL": "キャンセル",
+			"SEARCH": "リストまたは番号を検索します",
+			"NEW_POST": "新しい投稿",
+			"TITLE": "タイトル",
+			"DESCRIPTION": "説明",
+			"PRICE": "価格",
+			"POST": "投稿",
+			"CONTACT": "連絡先",
+			"REMOVE": "削除",
+			"ERROR_POPUP": {
+				"TITLE": "Error",
+				"NO_TITLE": "タイトルを入力する必要があります",
+				"NO_DESCRIPTION": "説明を入力する必要があります",
+				"NO_PRICE": "価格を入力する必要があります",
+				"NO_ATTACHMENTS": "少なくとも1つの画像を添付する必要があります",
+				"OK": "OK"
+			},
+			"DELETE_POPUP": {
+				"TITLE": "リストを削除",
+				"TEXT": "このリストを削除したいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "削除"
+			}
+		},
+		"YELLOWPAGES": {
+			"SEARCH": "投稿や番号を検索",
+			"FROM": "From",
+			"CANCEL": "キャンセル",
+			"NEW_POST": "新しい投稿",
+			"TITLE": "タイトル",
+			"DESCRIPTION": "説明",
+			"PRICE": "価格",
+			"POST": "投稿",
+			"CALL": "Call",
+			"ERROR_POPUP": {
+				"TITLE": "Error",
+				"NO_TITLE": "タイトルを入力する必要があります",
+				"NO_DESCRIPTION": "説明を入力する必要があります",
+				"OK": "OK"
+			},
+			"DELETE_POPUP": {
+				"TITLE": "投稿を削除",
+				"TEXT": "この投稿を削除したいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "削除"
+			}
+		},
+		"MAIL": {
+			"TITLE": "メール",
+			"YOU": "You",
+			"UPDATED_NOW": "今すぐ更新されています",
+			"NEW_MESSAGE": "新しいメッセージ",
+			"INBOX": "Inbox",
+			"TO": "To",
+			"FROM": "From",
+			"SUBJECT": "Subject",
+			"MESSAGE": "Message",
+			"CANCEL": "キャンセル",
+			"SEND": "送信",
+			"EMAIL": "Email",
+			"EMAIL_INVALID": "無効なメールアドレス",
+			"EMAIL_EXISTS": "メールは既に存在します",
+			"PASSWORD": "パスワード",
+			"WRONG_PASSWORD": "間違ったパスワード",
+			"LOGIN": "ログイン",
+			"NO_EMAIL": "メールアドレスを持っていませんか？",
+			"CREATE_ONE": "Create one",
+			"UNREAD": "未読",
+			"CREATE_MAIL": "メールを作成",
+			"ALREADY_HAVE": "すでにメールアドレスを持っていますか？",
+			"SIGN_OUT_POPUP": {
+				"TITLE": "サインアウト",
+				"DESCRIPTION": "サインアウトしたいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"DELETE_MAIL_POPUP": {
+				"TITLE": "メールを削除",
+				"DESCRIPTION": "このメールを削除してもよろしいですか?",
+				"CANCEL": "キャンセル",
+				"DELETE": "消去"
+			}
+		},
+		"MAPS": {
+			"TITLE": "マップ",
+			"GO": "Go",
+			"ADD": "追加",
+			"EDIT": "編集",
+			"DELETE": "削除",
+			"SET_WAYPOINT": "ウェイポイントを設定",
+			"SHARE": "共有",
+
+			"ADD_LOCATION_POPUP": {
+				"TITLE": "場所を追加",
+				"DESCRIPTION": "追加する場所の名前を入力してください",
+				"PLACEHOLDER": "名前",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"CHANGE_NAME_POPUP": {
+				"TITLE": "名前を変更",
+				"DESCRIPTION": "場所の新しい名前を入力します",
+				"PLACEHOLDER": "名前",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			}
+		},
+		"MUSIC": {
+			"TITLE": "音楽",
+			"LIBRARY": "ライブラリー",
+			"SEARCH": "検索",
+			"ADD_QUEUE": "キューに追加する",
+			"ADD_PLAYLIST": "プレイリストに追加する",
+			"REMOVE_SONG": "楽曲を削除",
+			"NOT_PLAYING": "Not Playing",
+			"EDIT_PLAYLIST": "プレイリストを編集",
+			"DELETE_PLAYLIST": "プレイリストを削除",
+			"SEARCH_PLACEHOLDER": "アーティスト、曲、アルバム、プレイリスト",
+			"SONGS": "曲",
+			"ALBUMS": "アルバム",
+			"PLAY": "Play",
+			"SHUFFLE": "シャッフル",
+			"ARTIST": "アーティスト",
+			"ALBUM": "アルバム",
+			"PLAYLIST": "プレイリスト",
+			"SONG": "楽曲",
+			"SONG_EXISTS_POPUP": {
+				"TITLE": "歌はすでに存在しています",
+				"DESCRIPTION": "この曲はすでにこのプレイリストに存在しています",
+				"CANCEL": "キャンセル"
+			},
+			"NEW_PLAYLIST_POPUP": {
+				"TITLE": "新規プレイリスト",
+				"DESCRIPTION": "新しいプレイリストを作成します",
+				"PLACEHOLDER": "プレイリスト名",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"REMOVE_SONG_POPUP": {
+				"TITLE": "曲を削除します",
+				"DESCRIPTION": "プレイリストからこの曲を削除したいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			}
+		},
+		"TINDER": {
+			"TITLE": "スパーク",
+			"LIKES_YOU_TOO": "あなたも好きです！",
+			"KEEP_SWIPING": "スワイプを続けます",
+			"SAY_SOMETHING_NICE": "何かいいことを言ってください",
+			"NO_MORE": "私たちはあなたがスワイプするために人を使い果たしました、後でもう一度チェックしてください！",
+			"SEND": "送信",
+			"AGREE_TERMS": "「アカウントの作成」を押すことで、当社のサービスおよびプライバシーポリシーに同意する",
+			"CREATE_ACCOUNT": "アカウントの作成",
+			"AGE_PUBLIC": "あなたの年齢は公開されます",
+			"BE_OVER_18": "このサービスを使用するには、18歳以上でなければなりません",
+			"NAME_MINIMUM": "あなたの名前は少なくとも3文字でなければなりません",
+			"ADD_PHOTOS": "写真を追加します",
+			"PHOTOS_MINIMUM": "少なくとも1枚の写真が必要です",
+			"DESCRIPTION": "あなた自身について少し教えてください",
+			"DESCRIPTION_MINIMUM": "あなたの説明は少なくとも10文字の長さでなければなりません",
+			"SHOW_ME": "Show Me",
+			"WOMEN": "女性",
+			"MEN": "男性",
+			"EVERYONE": "みんな",
+			"EVERYTHING": "すべて",
+			"I_AM": "私は",
+			"MALE": "男",
+			"FEMALE": "女",
+			"CONTINUE": "Continue",
+			"NAME": "名前",
+			"PHOTOS": "写真",
+			"ABOUT_ME": "私について",
+			"INTERESTED_IN": "に興味がある",
+			"GENDER": "性別",
+			"SAVE": "保存",
+			"NEW_MATCHES": "New Matches",
+			"MESSAGES": "メッセージ",
+			"SEARCH_MATCHES": "Search Matches"
+		},
+		"INSTAGRAM": {
+			"TITLE": "InstaPic",
+			"SEND": "送信",
+			"POST": "投稿",
+			"MESSAGE_PLACEHOLDER": "メッセージ...",
+			"NEW_MESSAGE": "新しいメッセージ",
+			"NOW": "Now",
+			"GO_LIVE_POPUP": {
+				"TITLE": "Go Live",
+				"DESCRIPTION": "ライブに行きたいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"END_LIVE_POPUP": {
+				"TITLE": "ライブを終了",
+				"DESCRIPTION": "Are you sure you want to {action} this live?",
+				"CANCEL": "キャンセル",
+				"END": "終了",
+				"LEAVE": "離れる"
+			},
+			"UNFOLLOW_POPUP": {
+				"TITLE": "フォロー解除",
+				"DESCRIPTION": "{name} のフォローを解除しますか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"DELETE_POST_POPUP": {
+				"TITLE": "投稿を削除",
+				"DESCRIPTION": "この投稿を削除したいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"SIGN_OUT_POPUP": {
+				"TITLE": "サインアウト",
+				"DESCRIPTION": "サインアウトしたいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"DELETE_STORY": {
+				"TITLE": "ストーリーを削除します",
+				"DESCRIPTION": "このストーリーを削除したいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"INVITE_LIVE_POPUP": {
+				"TITLE": "ライブ招待",
+				"DESCRIPTION": "{username} があなたをライブに招待しました。",
+				"NO": "No",
+				"YES": "Yes"
+			},
+			"REMOVE_LIVE_POPUP": {
+				"TITLE": "削除 {username}",
+				"DESCRIPTION": " {username} をライブから削除しますか？",
+				"CANCEL": "キャンセル",
+				"REMOVE": "削除"
+			},
+			"LEAVE_LIVE_POPUP": {
+				"TITLE": "ライブを離れる",
+				"DESCRIPTION": "このライブを終了してもよろしいですか?",
+				"LEAVE": "離れる"
+			},
+			"LIVE_ENDED": "ライブ終了",
+			"COMMENT_PLACEHOLDER": "コメント",
+			"LIVE": "ライブ",
+			"YOUR_STORY": "あなたのストーリー",
+			"CREATE_STORY": "ストーリーを作成します",
+			"GO_LIVE": "Go Live",
+			"EMPTY_FEED": "ここで自分の写真やビデオを見るために人々をフォローします",
+			"COMMENTS": "コメント",
+			"ADD_COMMENT_AS": " {name} としてコメントを追加",
+			"NEW_POST": "新しい投稿",
+			"NEXT": "次",
+			"CAPTION_PLACEHOLDER": "キャプションを書く...",
+			"ACTIVITY": "活動",
+			"FOLLOW": "フォロー",
+			"FOLLOWING": "フォロー中",
+			"FOLLOWERS": "フォロワー",
+			"FOLLOWER": "フォロワー",
+			"REQUESTED": "リクエスト",
+			"LIKES": "いいね",
+			"LIKED_BY": "いいね by",
+			"VIEW_ALL_COMMENTS": "すべての {count} コメントを見る",
+			"FIRST_COMMENT": "最初にコメントする...",
+			"NO_ACCOUNT": "このユーザー名にはアカウントはありません",
+			"WRONG_USERNAME_OR_PASSWORD": "間違ったユーザー名またはパスワード",
+			"LOG_IN": "ログイン",
+			"ACCOUNT_WITH_USERNAME": "このユーザー名を持つアカウントはすでに存在しています",
+			"CREATE_ACCOUNT": "アカウントを作成する",
+			"USERNAME_PLACEHOLDER": "ユーザー名",
+			"NAME_PLACEHOLDER": "名前",
+			"PASSWORD_PLACEHOLDER": "パスワード",
+			"NOT_HAVE_ACCOUNT": "アカウントを持っていませんか？",
+			"HAVE_ACCOUNT": "アカウントを持っています？",
+			"LIKED_PHOTO": "あなたの写真を気に入った",
+			"LIKED_COMMENT": "いいね: {comment}",
+			"COMMENTED": "あなたの投稿にコメントしました: {comment}",
+			"FOLLOWED": "あなたをフォローしました",
+			"DONE": "完了",
+			"EDIT_PROFILE": "プロフィール編集",
+			"CHANGE_PICTURE": "プロフィール画像を変更",
+			"NAME": "名前",
+			"BIO": "Bio",
+			"PRIVATE": "プライベートを切り替えます",
+			"SIGN_OUT": "サインアウト",
+			"POSTS": "投稿",
+			"MESSAGE": "メッセージ",
+			"SENT_A_PHOTO": "写真を送信しました",
+			"TO": "To",
+			"SEND_A_MESSAGE": "メッセージを送ります...",
+			"STORY_VIEWERS": "視聴者",
+			"PARTICIPANTS": "参加者",
+			"SEEN_BY": "{count} 人が見た",
+			"ADD_ACCOUNT": "アカウントを追加する",
+			"INVITE": "招待する",
+			"REMOVE": "削除",
+			"IN_THIS_ROOM": "この部屋で",
+			"WHOS_WATCHING": "誰が見ていますか",
+			"FOLLOW_REQUESTS": "フォロリク",
+			"CONFIRM": "確認",
+			"DELETE": "削除",
+			"ANDOTHERS": "{username} + {amount} others"
+		},
+		"TWITTER": {
+			"TITLE": "Birdy",
+			"SEARCH_FOR": " '{search}' を検索する",
+			"START_SEARCHING": "Birdy を体験する準備はできていますか？",
+			"TRENDING_HASHTAGS": "トレンドハッシュタグ",
+			"SENT_ATTACHMENT": "添付ファイルを送信しました",
+			"TO": "To",
+			"TWEETS": "投稿",
+			"REPLIES": "リプ",
+			"MEDIA": "メディア",
+			"LIKES": "いいね",
+			"CANCEL": "キャンセル",
+			"TWEET": "投稿",
+			"TWEET_REPLY": "返信を投稿",
+			"TWEET_GENERAL": "今、何が起こっている？",
+			"EDIT_PROFILE": "プロフィール編集",
+			"SAVE": "保存",
+			"NAME": "名前",
+			"JOIN_DATE": "参加日",
+			"PROTECTED_POSTS": "投稿を保護する",
+			"BIO": "Bio",
+			"SIGN_OUT": "サインアウト",
+			"SIGN_OUT_POPUP": {
+				"TITLE": "サインアウト",
+				"DESCRIPTION": "サインアウトしてもよろしいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"UNFOLLOW_POPUP": {
+				"TITLE": "フォロー解除",
+				"DESCRIPTION": "{name} さんのフォローを解除してもよろしいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"RETWEET_POPUP": {
+				"RETWEET": "リポスト",
+				"UNDO_RETWEET": "リポストを取り消す",
+				"DESCRIPTION": "{action} してもよろしいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"DELETE_POPUP": {
+				"TITLE": "投稿を削除",
+				"DESCRIPTION": "この投稿を削除してもよろしいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"NOTIFICATIONS_POPUP": {
+				"TITLE": "通知",
+				"DESCRIPTION": "@{name} さんの通知を {action} してもよろしいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行",
+				"ENABLE": "有効",
+				"DISABLE": "無効"
+			},
+			"PROMOTE_POPUP": {
+				"TITLE": "投稿の広告掲載",
+				"DESCRIPTION": "この投稿を {price} 円で {views} 回表示させる広告として掲載しますか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"YOU": "あなた",
+			"FOLLOW": "フォロー",
+			"PENDING": "保留中",
+			"FOLLOWING": "フォロー中",
+			"FOLLOWERS": "フォロワー",
+			"RETWEETED": "リポスト",
+			"REPLYING_TO": "{name} さんへの返信",
+			"RETWEETED_BY": "リポスト By",
+			"LIKED_BY": "いいね By",
+			"ALL": "全て",
+			"NOTIFICATIONS": "いいね",
+			"FOLLOWS_YOU": "フォローされている",
+			"JOINED": "{date} に参加",
+			"LIKED_TWEET": "あなたの投稿をいいねしました",
+			"RETWEETED_TWEET": "あなたの投稿をリポストしました",
+			"FOLLOWED": "あなたをフォローしました",
+			"SIGN_UP_TEXT": "世界で今起きていること",
+			"TERMS_OF_SERVICE": "利用規約とプライバシーポリシーへの同意",
+			"HAS_ACCOUNT": "すでにアカウントをお持ちですか？",
+			"CREATE_YOUR_ACCOUNT": "アカウント作成",
+			"NAME_PLACEHOLDER": "名前",
+			"USERNAME_PLACEHOLDER": "ユーザー名",
+			"PASSWORD_PLACEHOLDER": "パスワード",
+			"GET_STARTED": "まず、@usernameを入力してください。",
+			"FORGOT_PASSWORD": "パスワードを忘れた場合",
+			"ENTER_PASSWORD": "パスワードを入力してください",
+			"SEARCH_DIRECT_MESSAGES": "ダイレクトメッセージを検索",
+			"SEARCH_TWITTER": "Birdy を検索",
+			"MESSAGE_PLACEHOLDER": "メッセージ...",
+			"NOW": "Now",
+			"LOGIN": "ログイン",
+			"CREATE_ACCOUNT": "アカウントを作成",
+			"PROMOTE": "プロモート",
+			"PIN": "投稿をピン留め",
+			"UNPIN": "投稿のピン留めを解除",
+			"NEW_MESSAGE": "新しいメッセージ",
+			"PROMOTED": "プロモートした",
+			"ADD_ACCOUNT": "アカウントを追加",
+			"FOLLOWER_REQUESTS": "フォロワーリクエスト",
+			"NEW_POSTS": "新しい投稿",
+			"NEW_POST": "新しい投稿"
+		},
+		"SERVICES": {
+			"ACTIONS": "Actions",
+			"COMPANIES": "企業",
+			"MESSAGES": "メッセージ",
+
+			"CLOSED": "Closed",
+			"YOUR_MESSAGES": "あなたのメッセージ",
+			"JOB_MESSAGES": "ジョブメッセージ",
+
+			"DUTY": "Duty",
+			"GO_ON_DUTY": "勤務を開始する",
+			"GO_OFF_DUTY": "退勤する",
+			"JOB_CALLS": "求人情報",
+			"DISABLE_CALLS": "電話の着信を無効にする",
+			"ENABLE_CALLS": "電話の着信を有効にする",
+			"BALANCE": "残高",
+			"MANAGE_EMPLOYEES": "従業員管理",
+			"HIRE": "採用",
+			"SET_GRADE": "グレードを設定する",
+			"UNEMPLOYED": "あなたは失業中です",
+
+			"DEPOSIT_POPUP": {
+				"TITLE": "預り金",
+				"DESCRIPTION": "会社の口座にお金を入金する",
+				"AMOUNT": "金額",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"WITHDRAW_POPUP": {
+				"TITLE": "引き出す",
+				"DESCRIPTION": "会社の口座からお金を引き出す",
+				"AMOUNT": "金額",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"HIRE_POPUP": {
+				"TITLE": "採用",
+				"DESCRIPTION": "新しい従業員を雇う",
+				"PLACEHOLDER": "ID",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"FIRE_POPUP": {
+				"TITLE": "解雇",
+				"DESCRIPTION": "{name}さんを解雇しますか？",
+				"PLACEHOLDER": "ID",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"CALL_POPUP": {
+				"TITLE": "電話",
+				"DESCRIPTION": "{name}さんに電話しますか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			}
+		},
+		"CRYPTO": {
+			"TITLE": "Crypto",
+			"BALANCE": "見積残高",
+			"BUY": "買う",
+			"SELL": "売る",
+			"TRANSFER": "譲渡する",
+			"SELL_ALL": "全て売却",
+			"NO_MONEY": "お金が足りません",
+			"NO_COINS": "このコインを持っていない",
+			"NOT_ENOUGH_COINS": "コインが足りません",
+			"ATLEAST_ONE_COIN": "{currency} が1つ以上なければ {action} できません",
+			"INVALID_COIN": "無効なコイン",
+			"NO_NUMBER": "電話番号が提供されていない",
+			"INVALID_NUMBER": "無効な電話番号です（対象者が起きていない可能性があります）",
+			"ERROR": "Error",
+			"CLOSE": "閉じる",
+			"BUY_POPUP": {
+				"TITLE": "{coin} を購入する",
+				"DESCRIPTION": "購入したい {coin} の金額（$）を入力してください",
+				"PLACEHOLDER": "$1000",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"SELL_POPUP": {
+				"TITLE": "{coin} を売却する",
+				"DESCRIPTION": "売却したい {coin} の金額（$）を入力してください",
+				"PLACEHOLDER": "$1000"
+			},
+			"SELL_ALL_POPUP": {
+				"TITLE": "全ての{coin}を売却する",
+				"DESCRIPTION": "{coin} を全て {amount} で売却しますか？"
+			},
+			"TRANSFER_POPUP": {
+				"TITLE": "{coin} を送金する",
+				"DESCRIPTION": "送金したい {coin} の金額（$）を入力してください（次のステップで連絡先を選択）",
+				"PLACEHOLDER": "$1000",
+				"NEXT": "次へ"
+			},
+			"SUCCESSFULLY_TRANSFERED_POPUP": {
+				"TITLE": "送金が完了しました",
+				"DESCRIPTION": "${amount} の {coin} を {number} に送金しました",
+				"CLOSE": "閉じる"
+			}
+		},
+		"TIKTOK": {
+			"TITLE": "トレンド",
+
+			"HOME": "Home",
+			"DISCOVER": "見つける",
+			"INBOX": "受信箱",
+			"PROFILE": "プロフィール",
+
+			"COMMENTS_TITLE": "{count} 件のコメント",
+			"REPLY": "返信",
+			"VIEW_REPLIES": "返信を表示",
+			"ADD_COMMENT": "コメントを追加...",
+			"REPLY_TO": "{name} に返信",
+			"PIN_COMMENT": "コメントをピン留め",
+			"UNPIN_COMMENT": "コメントのピン留め解除",
+			"DELETE_COMMENT": "コメントを削除",
+			"DELETE": "削除",
+			"PINNED": "ピン留め",
+			"PIN_VIDEO": "ビデオをピン留め",
+			"UNPIN_VIDEO": "ビデオのピン留め解除",
+			"PIN": "ピン留め",
+			"UNPIN": "ピン留め解除",
+			"MAX_PINNED_TITLE": "最大ピン留め数",
+			"MAX_PINNED_DESCRIPTION": "最大3つの動画をピン留めできます",
+			"OK": "OK",
+			"CREATOR": "作成者",
+			"LIKED_BY_CREATOR": "クリエイターが「いいね！」しました",
+
+			"PIN_VIDEO_POPUP": {
+				"TITLE": "ビデオをピン留め",
+				"DESCRIPTION": "この動画を {action} してもよろしいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"DELETE_VIDEO_POPUP": {
+				"TITLE": "動画を削除",
+				"DESCRIPTION": "この動画を削除してもよろしいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"FAILED_UPLOAD_POPUP": {
+				"TITLE": "TTSアップロード失敗",
+				"DESCRIPTION": "サーバー所有者によるオーディオアップロード設定が不適切です。この問題を解決するには、サーバー所有者に連絡してください。",
+				"CANCEL": "キャンセル",
+				"PROCEED": "無視"
+			},
+
+			"SHARE_TITLE": "共有",
+			"SHARE": "共有",
+			"REPORT": "報告",
+			"SAVE_VIDEO": "動画を保存",
+			"ADD_FAVOURITE": "お気に入りに追加",
+			"CANCEL": "キャンセル",
+			"GO_BACK": "戻る",
+
+			"FOLLOWING": "フォロー中",
+			"FOLLOWERS": "フォロワー",
+			"UNFOLLOW": "フォロー解除",
+			"FOLLOW": "フォロー",
+			"FOR_YOU": "あなた向け",
+			"VIDEOS": "ビデオ",
+			"LIKES": "いいね",
+
+			"UNFOLLOW_POPUP": {
+				"TITLE": "フォロー解除",
+				"DESCRIPTION": "{name} さんのフォローを外してもよろしいですか？",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+
+			"LOGIN_TITLE": "トレンドにログイン",
+			"LOGIN_SUBTITLE": "アカウント確認の通知を管理したり、ビデオにコメントしたりできます。",
+			"SIGNUP_TITLE": "トレンディに登録する",
+			"SIGNUP_SUBTITLE": "プロフィールを作成したり、他のアカウントをフォローしたり、独自のビデオを作成したりできます。",
+			"NAME": "名前",
+			"USERNAME": "ユーザー名",
+			"PASSWORD": "パスワード",
+			"BIO": "Bio",
+			"SHOW_LIKES": "「いいね！」を表示",
+
+			"LOGIN": "ログイン",
+			"SIGNUP": "サインアップ",
+			"NO_ACCOUNT": "アカウントをお持ちでない場合は、",
+			"ALREADY_ACCOUNT": "すでにアカウントをお持ちですか？",
+			"SEARCH_PLACEHOLDER": "ユーザーを検索する",
+
+			"STARTED_FOLLOWING": "あなたをフォロー始めました。",
+			"LIKED_VIDEO": "あなたのビデオが好きでした。",
+			"LIKED_COMMENT": "あなたのコメントが気に入りました。",
+			"SAVED_VIDEO": "動画をお気に入りに追加しました。",
+			"COMMENTED": "コメントした: {comment}",
+			"REPLIED": "あなたのコメントに返信しました: {comment}",
+
+			"EDIT_PROFILE": "プロファイル編集",
+			"MESSAGE": "メッセージ",
+			"CHANGE_PHOTO": "写真を変更する",
+			"LOGOUT": "ログアウト",
+			"ADD_TO_YOUR_PROFILE": "プロフィールに追加",
+			"LIKED_HIDDEN_TITLE": "このユーザーの「いいね！」動画は非公開です。",
+			"LIKED_HIDDEN_SUBTITLE": "{name} が「いいね！」した動画は現在非表示になっています。",
+
+			"INVALID_ACCOUNT_POPUP": {
+				"TITLE": "無効 {name}",
+				"DESCRIPTION": "入力した {name} アカウントにログインしていません。修正してください。",
+				"OK": "OK"
+			},
+			"REMOVE_ACCOUNT_POPUP": {
+				"TITLE": "{name} アカウントを削除する",
+				"DESCRIPTION": "{name} アカウントをプロフィールから削除してもよろしいですか?",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+
+			"ADD_ACCOUNT_TITLE": "アカウントを追加する",
+			"ADD_ACCOUNT": "{name} をプロフィールに追加",
+			"UPLOAD_VIDEO": "ビデオをアップロードする",
+			"PREVIEW": "プレビュー",
+			"CAPTION": "キャプション",
+			"CAPTION_PLACEHOLDER": "キャプションを追加する...",
+			"TTS": "テキスト読み上げ (TTS)",
+			"TTS_PLACEHOLDER": "音声にテキストを追加する...",
+			"MUSIC": "音楽",
+			"SELECT_MUSIC": "音楽を選択",
+			"OPTIONAL": "オプション",
+
+			"DIRECT_MESSAGES": "ダイレクトメッセージ",
+			"ALL_ACTIVITY": "すべてのアクティビティ",
+			"NO_NOTIFICATIONS": "通知は利用できません",
+			"NO_NOTIFICATIONS_SUBTITLE": "アカウントに関する通知がここに表示されます。",
+			"NO_FOLLOWING_TITLE": "人々のフォローを開始すると、その人のビデオがここに表示されます。",
+			"NO_MESSAGES_TITLE": "友達にメッセージを送る",
+			"NO_MESSAGES_SUBTITLE": "ビデオを共有したり、会話を始めたりする"
+		},
+		"VOICEMEMO": {
+			"TITLE": "ボイスメモ",
+			"ALL_RECORDINGS": "すべての録音",
+			"DEFAULT_NAME": "新規録音",
+			"DELETE_POPUP": {
+				"TITLE": "ボイスメモを削除する",
+				"DESCRIPTION": "このボイスメモを削除してもよろしいですか?",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			},
+			"NO_MICROPHONE_POPUP": {
+				"TITLE": "マイクなし",
+				"DESCRIPTION": "マイクにアクセスできません。マイクが接続されていることを確認し、画面右上のポップアップを受け入れてください。",
+				"OK": "OK"
+			}
+		}
+	},
+	"COMPONENTS": {
+		"CONTEXT_MENU": {
+			"CANCEL": "キャンセル",
+			"CALL": "Call",
+			"VIDEO_CALL": "ビデオ通話",
+			"MESSAGE": "メッセージ"
+		},
+		"IMAGE": {
+			"SAVE_TO_GALLERY": "ギャラリーに保存"
+		},
+		"GALLERY": {
+			"CANCEL": "キャンセル",
+			"EXTERNAL_URL": "外部URL",
+			"EXTERNAL_URL_BLACKLISTED": "この URL はブラックリストに登録されています",
+			"NO_IMAGES": "画像がありません"
+		},
+		"NOTIFICATIONS": {
+			"SENT_PHOTO": "写真を送信しました",
+			"SENT_GIF": "GIFを送信しました",
+			"NOW": "now"
+		},
+		"SHARE": {
+			"COPY_PHOTO": "写真をコピーする",
+			"USE_WALLPAPER": "壁紙として使用する",
+			"COPY_NUMBER": "コピー番号",
+			"AIRDROP_SENT": "送信済み",
+			"AIRDROP_ACCEPTED": "承認されました",
+			"AIRDROP_DECLINED": "拒否されました",
+			"AIRDROP_NO_USERS": "近くに電話がありません",
+			"WALLPAPER_POPUP": {
+				"TITLE": "壁紙として使用する",
+				"TEXT": "この画像を壁紙として設定してもよろしいですか?",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			}
+		},
+		"AIRDROP": {
+			"TITLE": "エアシェア",
+			"TEXT": "{sender} は {type} を共有したいと考えています",
+			"VIDEO": "ビデオ",
+			"PHOTO": "写真",
+			"CONTACT": "接触",
+			"LOCATION": "位置",
+			"NOTE": "注記",
+			"VOICEMEMO": "ボイスメモ",
+			"PLAYLIST": "プレイリスト",
+			"DECLINE": "衰退",
+			"ACCEPT": "受け入れる"
+		},
+		"DYNAMICISLAND": {
+			"SILENT": "サイレント",
+			"RING": "指輪",
+			"TIMER": "タイマー"
+		},
+		"MUSIC_SELECTOR": {
+			"CANCEL": "キャンセル",
+			"NO-RESULTS": "音楽が設定されていません。サーバー所有者に曲を追加するように指示してください",
+			"SEARCH": "曲を検索する",
+			"SELECT_POPUP": {
+				"TITLE": "曲を選択",
+				"DESCRIPTION": "{song} を選択してもよろしいですか",
+				"CANCEL": "キャンセル",
+				"PROCEED": "続行"
+			}
+		},
+		"BATTERY": {
+			"LOW_BATTERY": "バッテリー残量低下",
+			"BATTERY_REMAINING": "バッテリー残量 {percent}%",
+			"LOW_POWER_MODE": "低電力モード",
+			"CLOSE": "閉じる"
+		},
+		"COLOR_PICKER": {
+			"COLOR": "色"
+		}
+	},
+	"SETUP": {
+		"HELLO": "こんにちは",
+		"NEXT": "クリックして開く",
+		"CREATE_PASSCODE": "パスコードを作成",
+		"CREATE_PASSCODE_TEXT": "パスコードはデータを保護し、携帯電話のロックを解除するために使用されます。",
+		"SKIP": "このステップを飛ばす",
+		"FACE_ID_SETUP": "Face Unlock セットアップ",
+		"FACE_ID_TEXT": "顔を画面に映すだけで、自動でロック解除 Face Unlockを設定しよう。",
+		"ENABLE_FACE_ID": "Face Unlockを有効にする",
+		"APPEARANCE": "外観",
+		"APPEARANCE_TEXT": "明るいまたは暗い外観を選択します",
+		"CONTINUE": "続ける",
+		"WELCOME_TO": "ようこそ",
+		"CLICK": "クリックして開始"
+	},
+	"HOMESCREEN": {
+		"DONE": "完了",
+		"REMOVE_APP_POPUP": {
+			"TITLE": "'{app}' を削除しますか？",
+			"DESCRIPTION": "このアプリを削除しても、データは削除されません。後でアプリをApp Storeから再インストールできます。",
+			"CANCEL": "キャンセル",
+			"PROCEED": "削除"
+		}
+	},
+	"LOCKSCREEN": {
+		"ENTER_PASSCODE": "PassCodeを入力",
+		"DELETE": "削除",
+		"FONT_AND_COLOR": "フォントと色"
+	},
+	"MISC": {
+		"AIRPLANE_MODE_POPUP": {
+			"TITLE": "Error",
+			"DESCRIPTION": "インターネット接続が必要な操作です。機内モードを解除して続行してください。",
+			"OK": "OK"
+		}
+	},
+	"BACKEND": {
+		"CALLS": {
+			"NO_CALLER_ID": "発信者IDはありません",
+			"MISSED_CALL": "不在着信",
+			"NEW_VOICEMAIL": "ボイスメール"
+		},
+		"GARAGE": {
+			"VALET": "係員",
+			"COULDNT_FIND": "車両が見つかりませんでした。",
+			"ALREADY_OUT": "車両はすでに出ています。",
+			"NO_MONEY": "あなたは十分なお金を持っていません。",
+			"ON_WAY": "あなたの車はこちらに向かっています。",
+			"MARKED": "あなたの車はGPSにマークされています。"
+		},
+		"INSTAGRAM": {
+			"NOT_ALLOWED_LIVE": "あなたはライブに行くことを許可されていません",
+			"NOT_ALLOWED_STORY": "ストーリーの投稿は禁止されています",
+			"STARTED_LIVE": "{username} ライブビデオを始めました",
+			"JOINED_LIVE": "{invitee} は現在、{inviter} でライブ配信を開始しています。",
+			"LIKED_PHOTO": "{username} さんがあなたの写真を「いいね！」しました",
+			"LIKED_COMMENT": "{username} さんがあなたのコメントを気に入りました",
+			"COMMENTED": "{username} さんがあなたの投稿にコメントしました",
+			"NEW_FOLLOWER": "{username} があなたをフォローし始めました",
+			"FOLLOW_REQUEST_ACCEPTED_TITLE": "フォローリクエスト受け付けました",
+			"FOLLOW_REQUEST_ACCEPTED_DESCRIPTION": "{displayName} ({username}) があなたのフォローリクエストを承認しました。",
+			"NEW_FOLLOW_REQUEST_TITLE": "新規フォローリクエスト",
+			"NEW_FOLLOW_REQUEST_DESCRIPTION": "{displayName} ({username}) があなたのフォローをリクエストしました。"
+		},
+		"TINDER": {
+			"NEW_MATCH": "New match",
+			"MATCHED_WITH": "You matched with {name}"
+		},
+		"CAMERA": {
+			"TAKE_PHOTO": "{key} を押して写真を撮ります",
+			"FLIP_CAMERA": "{key} を押してカメラを反転します",
+			"TOGGLE_FLASH": "{key} を押してフラッシュを切り替えます",
+			"TOGGLE_CURSOR": "{key} を押してカーソルを切り替え、周囲を見回します",
+			"CHANGE_MODE": "{key} {key2} を押してカメラモードを変更します"
+		},
+		"SERVICES": {
+			"NEW_MESSAGE": "新しいメッセージ",
+			"ANONYMOUS": "匿名"
+		},
+		"TWITTER": {
+			"LIKE": "{displayName} が「いいね！」しました:",
+			"RETWEET": "{displayName} によって再投稿されました:",
+			"REPLY": "{displayName} が返信しました:",
+			"FOLLOW": "{username} があなたをフォローし始めました",
+			"TWEET": "{username} が投稿したばかりです",
+			"FOLLOW_REQUEST_ACCEPTED_DESCRIPTION": "@{username} があなたのフォローリクエストを受け入れました。",
+			"NEW_FOLLOW_REQUEST": "@{username} があなたのフォローをリクエストしました。"
+		},
+		"TIKTOK": {
+			"LIKE": "{displayName} さんがあなたの動画を高く評価しました。",
+			"COMMENT": "{displayName} さんがあなたの動画にコメントしました。",
+			"FOLLOW": "{displayName} があなたをフォローし始めました.",
+			"SAVE": "{displayName} があなたの動画をお気に入りに追加しました。",
+			"LIKED_COMMENT": "{displayName} さんがあなたのコメントに「いいね！」しました。",
+			"REPLIED_COMMENT": "{displayName} があなたのコメントに返信しました。",
+			"DM": "{displayName}"
+		},
+		"MISC": {
+			"VERIFIED": "あなたのアカウントは認証されました",
+			"X_PHONE": "{name}'s Phone"
+		},
+		"CRYPTO": {
+			"RECEIVED_TRANSFER_TITLE": "{コイン}を受け取りました",
+			"RECEIVED_TRANSFER_DESCRIPTION": "${value} 相当の {amount} {coin} を受け取りました"
+		},
+		"MAIL": {
+			"AUTOMATIC_PASSWORD": {
+				"SENDER": "システム",
+				"SUBJECT": "あなたのメールアドレス",
+				"MESSAGE": "こんにちは\n\n自動的に生成されたメール アドレスは {address} で、パスワードは {password} です。"
+			}
+		},
+		"LOGS": {
+			"MAIL_TITLE": "Eメール",
+			"NEW_MAIL": "{sender} が {recipient} にメールを送信しました",
+
+			"MESSAGE_TITLE": "メール",
+			"NEW_MESSAGE": "{sender} が {recipient} にメッセージを送信しました: {message}",
+
+			"CALL_ENDED": "通話が終了しました",
+			"CALL_DESCRIPTION": "{duration}秒続いた`{caller}`と`{callee}`間の通話が終了しました。回答済み: `{answered}`",
+
+			"NEW_SERVICE_TITLE": "新しいメッセージ",
+			"NEW_SERVICE_CONTENT": "{sender} が {channel} にメッセージを送信しました: {message}",
+
+			"RECEIVED_TITLE": "${amount}を受け取りました",
+			"PAID_TITLE": "${amount} を支払いました",
+			"TRANSACTION": "{number} が {company} に対して ${amount} の取引を行いました",
+
+			"BOUGHT_CRYPTO": "暗号通貨を購入しました",
+			"SOLD_CRYPTO": "販売された暗号通貨",
+			"CRYPTO_DETAILS": "**コイン**: {coin}\n**金額**: {amount}\n**価値**: ${price}",
+			"TRANSFERRED_CRYPTO": "転送された暗号通貨",
+			"TRANSFERRED_CRYPTO_DETAILS": "**コイン**: {coin}\n**金額**: {amount}\n**To**: {to}\n**From**: {from}",
+
+			"DARKCHAT_CREATED_TITLE": "作成されたチャンネル",
+			"DARKCHAT_CREATED_DESCRIPTION": "{creator} が {channel} というチャンネルを作成しました",
+			"DARKCHAT_MESSAGE_TITLE": "新しいメッセージ",
+			"DARKCHAT_MESSAGE_DESCRIPTION": "{sender} が {channel} にメッセージを送信しました: {message}",
+
+			"MARKETPLACE_NEW_TITLE": "新規上場",
+			"MARKETPLACE_NEW_DESCRIPTION": "**販売者**: {seller}\n**タイトル**: {title}\n**価格**: ${price}\n**説明**: {description}\n**添付ファイル**: {attachments}\nID:**{id}",
+			"MARKETPLACE_DELETED": "投稿が削除されました",
+
+			"YELLOWPAGES_NEW_TITLE": "新しい投稿",
+			"YELLOWPAGES_NEW_DESCRIPTION": "**タイトル**: {title}\n**説明**: {description}\n**添付ファイル**: {attachment}\n**ID:**{id}",
+			"YELLOWPAGES_DELETED": "投稿が削除されました",
+
+			"LIVE_TITLE": "ライブ",
+			"STARTED_LIVE": "{username} さんがライブ動画を開始しました",
+			"ENDED_LIVE": "{username} がライブ動画を終了しました",
+			"ADDED_STORY": "{username} さんがストーリーに写真を追加しました",
+
+			"TRENDY_UPLOAD_TITLE": "新しいビデオ",
+			"TRENDY_UPLOAD_DESCRIPTION": "{username} がキャプション {caption} と ID {id} の新しい動画をアップロードしました",
+			"TRENDY_DELETE_TITLE": "動画を削除しました",
+			"TRENDY_DELETE_DESCRIPTION": "{username} が ID {id} の動画を削除しました",
+
+			"UPLOADED_MEDIA": "アップロードされたメディア",
+			"UPLOADED_MEDIA_DESCRIPTION": "ID {id} の {type} を取得しました\n{link}",
+			"VIDEO": "ビデオ",
+			"PHOTO": "写真"
+		}
+	}
+}
